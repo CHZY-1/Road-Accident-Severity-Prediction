@@ -1,1 +1,1 @@
-# Car-Accident-Severity-Prediction
+# Car-Accident-Severity-Classification
