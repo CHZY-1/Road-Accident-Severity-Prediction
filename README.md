@@ -12,6 +12,10 @@ The dataset used for this project is sourced from Kaggle : https://www.kaggle.co
 3. Random Forest
 4. Logistic Regression
 
+## Workflow
+
+![Road Accident Severity Precition Workflow](<severity prediction.png>)
+
 
 ## Results
 
